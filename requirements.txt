@@ -1,0 +1,4 @@
+mediapipe==0.10.32
+pillow
+pyautogui
+pycaw; sys_platform == "win32"
